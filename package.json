@@ -1,0 +1,27 @@
+{
+  "name": "dotfiles",
+  "version": "1.0.0",
+  "description": ":closed_book: personal dotfiles, configurations and many more",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Edsol/dotfiles.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Edsol/dotfiles/issues"
+  },
+  "homepage": "https://github.com/Edsol/dotfiles#readme",
+  "devDependencies": {
+    "cz-conventional-changelog": "^3.3.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}
