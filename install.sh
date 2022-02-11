@@ -10,3 +10,5 @@ git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$
 
 mkdir -p $HOME/.config/kitty/
 cp kitty.conf $HOME/.config/kitty/
+
+./install_tools.sh
