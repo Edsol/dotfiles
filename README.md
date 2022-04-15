@@ -10,3 +10,7 @@ Terminal configs:
 2. [zsh](https://www.zsh.org/) as a shell
 3. [Oh my zsh](https://ohmyz.sh/) for plugins
 4. [powerlevel10k](https://github.com/romkatv/powerlevel10k) for theme
+
+oh-my-zsh plugins
+
+1. [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
